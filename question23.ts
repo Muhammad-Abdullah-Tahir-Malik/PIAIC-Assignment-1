@@ -28,6 +28,4 @@ let fav="Ronalda";
 var fav1=(fav=="Messi")? "True":"False";
 console.log(fav1);
 
-
-
 export{}
